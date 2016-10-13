@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  padding: 5px 0 0 0;
+  font-family: Arial, helvetic, sans-serif;
+  margin-bottom: 10px;
+}
+
+h1, h2 {
+  color: #6b4e3d;
+}
+
+/* Header */
+header {
+  margin: 0 0 0 10px;
+}
+
+header p {
+  height: 15px;
+  margin: 0;
+}
+
+header hr {
+  margin-right: 10px;
+}
+
+/* Main */
+
+/* Footer */
+footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  background-color: #6b4e3d;
+}
+
+footer p {
+    padding-left: 10px;
+    color: white;
+}
+
+footer a {
+  text-decoration: none;
+  color: grey;
+}
