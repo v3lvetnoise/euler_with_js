@@ -30,6 +30,12 @@ function show_solution_2() {
   display_solution("solution_2", message);
 }
 
+function show_solution_3() {
+  // TO DO
+  var message = "Work in progress";
+  display_solution('solution_3', message);
+}
+
 function display_solution(section_id, message) {
   var section = document.getElementById(section_id);
   var element = document.createElement('p');
