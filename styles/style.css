@@ -57,12 +57,12 @@ p.center {
 .solution {
   display: none;
   border-left: 5px solid #6b4e3d;
-  background-color: lightgrey;
+  background-color: #dff0d8;
   padding-left: 10px;
 }
 
 .button_show_solution {
-    background-color: #008CBA;
+    background-color: #4CAF50;
     border: none;
     color: white;
     padding: 15px 32px;
